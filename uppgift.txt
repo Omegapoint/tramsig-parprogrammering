@@ -1,0 +1,29 @@
+En gång i tiden, på företaget GammaPoint, 
+fanns två konsulter Kim och Elliot. 
+Kim älskade att lösa pussel och Ell
+iot älskade att skapa fantastiskt onödiga script. 
+De hade med åren blivit så synkade at
+t de kunde använda samma tangentbord och mus när de lö
+ste problem tillsammans.
+En dag stötte dem på en tramsig utmaning som kallad
+es för tramsig parprogrammering.
+Det sades att de som klarade av denn
+a utmaning snabbast genom att avslöja en konstig gåta, skul
+le få evig ära, bli bästisar för alltid och aldrig mer få ett kompileringsfel. 
+Den konstiga/tramsigt skrivna gåt
+an lyder som följande:
+
+"!tniopammag aportu ,nevark adåb rellyfppu mos rettaks röF
+!tniop tedro aportu ,ttaks kil-S ne rellåhenni relle ,mef va ralpitlum rä natsik i nettaks mO
+!ammag tedro aportu ,ttaks kil-hcsatsum ne rellåhenni relle ,ert va ralpitlum rä natsik i nettaks mO
+
+.rasitsäb tedro i nevatskob atnevkerf tsem ned rä tekliv
+,S tte mos tu res natsän ted åd ,ah lliv nam togån åskco rä 5
+
+.ah lliv nam agnåm togån rä tekliv hcsatsum ne tkil rä 3 åd
+,arb ted rä 3 rä natsik i nettaks mO
+
+,rotsik åms i reggil moS
+,rorffis va atsil ne teviG"
+
+QmVzbHV0c2FtbWEgYXR0IGtuw6Rja2EgdXRtYW5pbmdlbiwgYsO2cmphZGUgS2ltIG9jaCBFbGxpb3QgYXR0IHV0Zm9ybWEgc2luIGzDtnNuaW5nLiBJIHRha3QgbWVkIGF0dCBkZSBza3JldiBzaW4ga29kLCByYWQgZsO2ciByYWQsIGF2c2zDtmphZGVzIGfDpXRhbnMgc3Zhci4gRGUgdGlsbMOkbXBhZGUgbm9nZ3JhbnQgZGUga3J5cHRpc2sgc2tyaXZuYSByZWdsZXJuYS4KVGlsbCBzaXN0IHZhciDDtmdvbmJsaWNrZXQga29tbWV0LiBUaWxsc2FtbWFucyBzw6Ugc2tyZXYgZGUgaW4gc3RhcnRrb21tYW5kb3Qgb2NoIHN0aXJyYWRlIGludGVuc2l2dCBww6UgdGVybWluYWxlbi4gT2NoIGTDpHIgdmFyIGRldCwgc2x1dGV0IGF2IHJlc2FuLiBGw7ZyIGF0dCBiZXZpc2Egc2l0dCBhcmJldGUgb2NoIHDDpSBzw6Ugc8OkdHQgZsOlIGV2aWcgw6RyYSwgYmxpIGLDpHN0aXNhciBldGNldGVyYSBzw6UgYWRkZXJhZGUgZGVtIGRlIHRhbCBzb20gZGV0IGludGUgc2t1bGxlIGhhIHV0cm9wYXRzIG7DpWdvdCBmw7ZyLCB2YXJrZW4gZ2FtbWEsIHBvaW50IGVsbGVyIGdhbW1hcG9pbnQuIERlIG11bHRpcGxpY2VyYWRlIHN1bW1hbiBhdiBkZXNzYSB0YWwsIG1lZCBhbnRhbGV0IGfDpW5nZXIgZMOlIGRldCB1dHJvcGF0cyBnYW1tYXBvaW50LgpUaWxsc2FtbWFucyBoYWRlIGRlIG51IGtvbW1pdCBww6Ugc3ZhcmV0IHDDpSBnw6V0YW4gb2NoIHZpc3NhIGRldCBmw7ZyIGVuIGRlbiBhbmRlIHNvbSBib2RkZSB1bmRlciB0cmFwcGFuIHNvbSBnZXR0IGRlbSBnw6V0YW4gbWVuIGludGUgbsOkbW50cyBmw7ZyZW4gbnUsIG9jaCBzw6UgdmFydCBkZSBiw6RzdGEga29uc3VsdGtvbGxlZ29yIGbDtnIgYWxsdGlkLCBvY2ggYWxsYSBww6UgR2FtbWFQb2ludCBsZXZkZSBseWNrbGlnYSBpIGFsbGEgc2luYSBkYWdhci4gS2FuIG5pIGdpc3NhIHZhZCBkZW4gc2x1dGdpbHRpZ2Egc3VtbWFuIGJsZXY/
